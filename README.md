@@ -63,6 +63,5 @@ This model can be deployed as:
 - Random Forest algorithm documentation
 - SHAP for interpretability
 
----
-✨ *Developed by [Your Name]* ✨
+
 
